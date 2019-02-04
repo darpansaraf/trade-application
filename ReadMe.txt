@@ -27,7 +27,7 @@ I did not understand what exactly was supposed to be done for this statement:"Li
 
 I am attaching a postman collection which contains the various sample requests relating the example that was mentioned in the given problem statement.
 	
-In case if you encounter any issues while building the project from the .zip file, you can clone it from here or please contact me on:
+In case if you encounter any issues while building the project from the .zip file, you can clone it from https://github.com/darpansaraf/trade-application or please contact me on:
 	- darpan.saraf@gmail.com
 	- +91 9028600638 / +91 9168793240.
 	
